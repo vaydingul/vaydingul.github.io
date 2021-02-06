@@ -7,10 +7,10 @@ disqus:
 google-ID: 'G-QEEYF61RPX'
 
 menu:
-- {name: 'About Me', folder: 'pages', file: 'about.md'}
+- {name: 'About Me', folder: 'pages', file: 'about.html'}
 - {name: 'Education', folder: 'pages', file: 'education.html'}
 - {name: 'Projects', folder: 'pages', file: 'projects.html'}
-- {name: 'Contact', folder: 'pages', file: 'contact.md'}
+- {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 
 #- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
