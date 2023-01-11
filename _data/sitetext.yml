@@ -34,7 +34,7 @@ en: &DEFAULT_EN
   projects:
     title: "Projects"
     text: "Do you wanna see something cool?"
-    section: projects
+    section: portfolio
     closebutton: "Close"
 
   timeline:
