@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: Hi, there!
     text: It's Nice To Meet You
     button: Projects
-    buttonlink: "#projects"
+    buttonlink: "#portfolio"
 
   services:
     title: "Services"
@@ -34,7 +34,7 @@ en: &DEFAULT_EN
   portfolio:
     title: "Projects"
     text: "Do you wanna see something cool?"
-    section: projects
+    section: portfolio
     closebutton: "Close"
 
   timeline:
