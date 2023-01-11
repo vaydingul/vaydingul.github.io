@@ -31,7 +31,7 @@ analytics:
   google: #Google Analytics tracking code here
 
 collections:
-  projects:
+  portfolio:
 
 markdown: kramdown
 
