@@ -24,13 +24,13 @@ en: &DEFAULT_EN
     list:
       - title: "Programming"
         desc: ""
-        icon: fa-solid fa-binary #find more at https://fontawesome.com/icons
+        icon: fa-regular fa-binary #find more at https://fontawesome.com/icons
       - title: "Machine Learning"
         desc: ""
-        icon: fa-solid fa-brain
+        icon: fa-regular fa-brain
       - title: "Computer Vision"
         desc: ""
-        icon: fa-solid fa-computer
+        icon: fa-regular fa-computer
 
   portfolio:
     title: "Projects"
