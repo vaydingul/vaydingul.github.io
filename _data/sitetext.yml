@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: Hi, there!
     text: It's Nice To Meet You
     button: Projects
-    buttonlink: "#portfolio"
+    buttonlink: "#projects"
 
   services:
     title: "Services"
@@ -32,10 +32,10 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
+    title: "Projects"
+    text: "Do you wanna see something cool?"
+    section: projects
+    closebutton: "Close"
 
   timeline:
     title: "Timeline"
