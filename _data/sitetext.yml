@@ -17,20 +17,11 @@ en: &DEFAULT_EN
     buttonlink: "#portfolio"
     
 
-  services:
-    title: "Expertise"
+  about:
+    title: "About Me"
     text: ""
-    section: services
-    list:
-      - title: "Programming"
-        desc: ""
-        icon: fa-regular fa-binary #find more at https://fontawesome.com/icons
-      - title: "Machine Learning"
-        desc: ""
-        icon: fa-regular fa-brain
-      - title: "Computer Vision"
-        desc: ""
-        icon: fa-regular fa-computer
+    body: ""
+    section: about
 
   portfolio:
     title: "Projects"
@@ -38,7 +29,7 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close"
 
-  timeline:
+timeline:
     title: "Timeline"
     text: ""
     section: timeline
@@ -67,16 +58,22 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: ""
 
-  about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
-
-  
-  
+  services:
+    title: "Expertise"
+    text: ""
+    section: services
+    list:
+      - title: "Programming"
+        desc: ""
+        icon: fa-regular fa-binary #find more at https://fontawesome.com/icons
+      - title: "Machine Learning"
+        desc: ""
+        icon: fa-regular fa-brain
+      - title: "Computer Vision"
+        desc: ""
+        icon: fa-regular fa-computer
 
   contact:
     title: "Contact Me"
