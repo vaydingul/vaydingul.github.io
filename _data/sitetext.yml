@@ -31,7 +31,7 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-  portfolio:
+  projects:
     title: "Projects"
     text: "Do you wanna see something cool?"
     section: projects

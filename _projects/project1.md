@@ -12,6 +12,7 @@ caption:
 DRONE SWARM ALGORITHM
 
 {:.list-inline}
-- Date: 2019
+- Date: January 2019
+- Client: Window
 - Category: Programming
 
