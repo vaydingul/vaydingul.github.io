@@ -1,18 +1,15 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/projects/02-full.jpg
-alt: Keep Exploring
+title: Robot Motion Planning
+subtitle: A simple motion planning algorithm for 2-linked robotic arm.
+image: assets/img/projects/robot.jpg
+alt: 
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: assets/img/projects/02-thumbnail.jpg
+  title: <a href="https://github.com/vaydingul/robot-motion-planning"> Robot Motion Planning </a>
+  subtitle: A simple motion planning algorithm for 2-linked robotic arm
+  thumbnail: assets/img/projects/robot.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+This project is a simple motion planning algorithm for 2-linked robotic arm. It is implemented in Python and make use of the *Potential Field Method* to optimal path. 
 
-{:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
-
+[Colab Notebook](https://colab.research.google.com/drive/1bQN3pF2ijRC-mpllqRBaNvI67GU2RvTo?usp=sharing)
+[Project Page](https://github.com/vaydingul/robot-motion-planning)
