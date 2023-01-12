@@ -81,20 +81,20 @@ en: &DEFAULT_EN
         align: right
     end: "Would you like to be the next one?"
 
-  services:
-    title: "Expertise"
-    text: ""
-    section: services
-    list:
-      - title: "Programming"
-        desc: ""
-        icon: fas fa-brackets-curly #find more at https://fontawesome.com/icons
-      - title: "Machine Learning"
-        desc: ""
-        icon: fas fa-brain
-      - title: "Computer Vision"
-        desc: ""
-        icon: fab fa-computer
+  # services:
+  #   title: "Expertise"
+  #   text: ""
+  #   section: services
+  #   list:
+  #     - title: "Programming"
+  #       desc: ""
+  #       icon: fas fa-brackets-curly #find more at https://fontawesome.com/icons
+  #     - title: "Machine Learning"
+  #       desc: ""
+  #       icon: fas fa-brain
+  #     - title: "Computer Vision"
+  #       desc: ""
+  #       icon: fab fa-computer
 
   contact:
     title: "Contact Me"

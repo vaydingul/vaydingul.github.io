@@ -19,8 +19,8 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "Timeline"
       section: timeline
-    - title: "Expertise"
-      section: services
+    #- title: "Expertise"
+    #  section: services
     - title: "Contact"
       section: contact
 
