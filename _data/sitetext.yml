@@ -88,13 +88,13 @@ en: &DEFAULT_EN
     list:
       - title: "Programming"
         desc: ""
-        icon: fas fa-binary #find more at https://fontawesome.com/icons
+        icon: fab fa-binary #find more at https://fontawesome.com/icons
       - title: "Machine Learning"
         desc: ""
         icon: fas fa-brain
       - title: "Computer Vision"
         desc: ""
-        icon: fas fa-computer
+        icon: fab fa-computer
 
   contact:
     title: "Contact Me"
