@@ -30,7 +30,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: ""
+    text: "From whence we came and to where we will return"
     section: timeline
     # left is the default
     #start_align: "left"
