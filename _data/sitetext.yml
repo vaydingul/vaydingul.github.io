@@ -79,7 +79,7 @@ en: &DEFAULT_EN
       
         # you can enforce the alignment
         align: right
-    end: ""
+    end: "Would you like to be the next one?"
 
   services:
     title: "Expertise"
@@ -88,13 +88,13 @@ en: &DEFAULT_EN
     list:
       - title: "Programming"
         desc: ""
-        icon: fa-regular fa-binary #find more at https://fontawesome.com/icons
+        icon: fas fa-binary #find more at https://fontawesome.com/icons
       - title: "Machine Learning"
         desc: ""
-        icon: fa-regular fa-brain
+        icon: fas fa-brain
       - title: "Computer Vision"
         desc: ""
-        icon: fa-regular fa-computer
+        icon: fas fa-computer
 
   contact:
     title: "Contact Me"
