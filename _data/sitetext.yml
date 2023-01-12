@@ -36,7 +36,7 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Middle East Technical University"
-        year: "2015"
+        year: "September 2015 - August 2020"
         desc: "I started to study Aerospace Engineering at METU."
         image: assets/img/timeline/odtu.png
         alt:
@@ -47,7 +47,7 @@ en: &DEFAULT_EN
         alt:
       - title: "TUBITAK UZAY"
         year: "August 2019"
-        desc: " did my internship at TUBITAK UZAY. I worked on systems engineering practices applied on the production of a CubeSat."
+        desc: "I did my internship at TUBITAK UZAY. I worked on systems engineering practices applied on the production of a CubeSat."
         image: assets/img/timeline/satellite.jpg
         alt:
       - title: "HAVELSAN Inc."
@@ -55,6 +55,28 @@ en: &DEFAULT_EN
         desc: "I worked as a Candidate Systems Engineer at HAVELSAN Inc. I worked on the development of simulation technologies."
         image: assets/img/timeline/simulation.jpg
         alt:
+      - title: "Koc University"
+        year: "September 2020"
+        desc: "I study Computational Science and Engineering at KU."
+        image: assets/img/timeline/ku.jpg
+        alt:
+      - title: "Robotics and Mechatronics Laboratory"
+        year: "September 2020 - June 2022"
+        desc: "I worked as a research assistant at RML. I work on the generation of proper signals to convey tactile feeling to high-end consumer electronics with touch screen (i.e., surface haptics)."
+        image: assets/img/timeline/robot.jpg
+        alt:
+      - title: "KUIS AI Laboratory"
+        year: "June 2021"
+        desc: "I work as a AI researcher at KUIS AI Laboratory."
+        image: assets/img/timeline/kuis.jpg
+        alt:
+      - title: "Autonomous Vision Group"
+        year: "June 2022"
+        desc: "I work as a computer vision researcher at Autonomous Vision Group. I work on the model-based policy learning for urban driving."
+        image: assets/img/timeline/vision.jpg
+        alt:
+      
+      
         # you can enforce the alignment
         align: right
     end: ""
