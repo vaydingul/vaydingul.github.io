@@ -11,7 +11,3 @@ caption:
 ---
 It is a light-weight [swarm algorithm](https://en.wikipedia.org/wiki/Swarm_intelligence) implementation in C++.
 [Project Page](https://github.com/vaydingul/SwarmAlgorithm) 
-
-{:.list-inline}
-- Category: Programming
-

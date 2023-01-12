@@ -1,18 +1,15 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/projects/06-full.jpg
+title: Haptics
+subtitle: Electromechanical device control unit
+image: assets/img/projects/haptic_setup.png
 alt: 
 
 caption:
-  title: Window
-  subtitle: Photography
-  thumbnail: assets/img/projects/06-thumbnail.jpg
+  title: Haptics
+  subtitle: Electromechanical device control unit
+  thumbnail: assets/img/projects/haptic_setup.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+During my time in [Robotics and Mechatronics Laboratory](https://rml.ku.edu.tr/), I designed two different projects to control experimental setups that we have constructed. [First](https://github.com/vaydingul/Surface_Haptics_Setup) one is to control a very complex structure which includes two linear stages, high resolution camera, and data acquisition devices (DAQs). 
 
-{:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
+[TacTX](https://github.com/vaydingul/TacTX) is another project that I designed to control a surface haptics setup. It includes a capacitive touch screen, a force sensor, an accelerometer, and a DAQ device that is responsible for whole data acquisition. TacTX is not only a suite that controls an electromechanical setup but also it provides you a framework to work with any DAQ device in MATLAB.
 
