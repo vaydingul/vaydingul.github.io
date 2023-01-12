@@ -18,8 +18,8 @@ en: &DEFAULT_EN
 
   about:
     title: "About Me"
-    text: ""
-    body: ""
+    text: "Engineer, programmer, researcher, and a dreamer."
+    body: Currently, I am a computer vision researcher working with [Fatma Guney](https://mysite.ku.edu.tr/fguney/) in Autonomous Vision Group (AVG).
     section: about
 
   portfolio:
