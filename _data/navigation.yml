@@ -13,6 +13,8 @@ en: &DEFAULT_EN
   nav:
     - title: "About"
       section: about
+    - title: "Resume"
+      url: /assets/vaydingul_detailed_resume_new_academic.pdf
     - title: "Projects"
       section: portfolio
     - title: "Timeline"
