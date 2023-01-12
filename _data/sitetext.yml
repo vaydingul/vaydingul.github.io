@@ -38,22 +38,22 @@ en: &DEFAULT_EN
       - title: "Middle East Technical University"
         year: "2015"
         desc: "I started to study Aerospace Engineering at METU."
-        image: assets/img/timeline/1.png
+        image: assets/img/timeline/ODTU.jpg
         alt:
       - title: "TUBITAK SAGE"
         year: "June 2019"
         desc: "I did my internship at TUBITAK SAGE. I worked on flight mechanics, navigational systems and motion planning."
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/missile.jpg
         alt:
       - title: "TUBITAK UZAY"
         year: "August 2019"
         desc: " did my internship at TUBITAK UZAY. I worked on systems engineering practices applied on the production of a CubeSat."
-        image: assets/img/timeline/3.png
+        image: assets/img/timeline/satellite.jpg
         alt:
       - title: "HAVELSAN Inc."
         year: "March 2020 - September 2020"
         desc: "I worked as a Candidate Systems Engineer at HAVELSAN Inc. I worked on the development of simulation technologies."
-        image: assets/img/timeline/4.png
+        image: assets/img/timeline/simulation.jpg
         alt:
         # you can enforce the alignment
         align: right
