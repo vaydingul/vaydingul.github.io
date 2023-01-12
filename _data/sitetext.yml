@@ -38,12 +38,12 @@ en: &DEFAULT_EN
       - title: "Middle East Technical University"
         year: "2015"
         desc: "I started to study Aerospace Engineering at METU."
-        image: assets/img/timeline/ODTU.jpg
+        image: assets/img/timeline/odtu.png
         alt:
       - title: "TUBITAK SAGE"
         year: "June 2019"
         desc: "I did my internship at TUBITAK SAGE. I worked on flight mechanics, navigational systems and motion planning."
-        image: assets/img/timeline/missile.jpg
+        image: assets/img/timeline/missile.png
         alt:
       - title: "TUBITAK UZAY"
         year: "August 2019"
