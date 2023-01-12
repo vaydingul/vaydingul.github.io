@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     - title: "About"
       section: about
     - title: "Resume"
-      url: /assets/vaydingul_detailed_resume_new_academic.pdf
+      url: /assets/vaydingul_detailed_resume_new.pdf
     - title: "Projects"
       section: portfolio
     - title: "Timeline"

@@ -88,7 +88,7 @@ en: &DEFAULT_EN
     list:
       - title: "Programming"
         desc: ""
-        icon: far fa-binary #find more at https://fontawesome.com/icons
+        icon: fas fa-brackets-curly #find more at https://fontawesome.com/icons
       - title: "Machine Learning"
         desc: ""
         icon: fas fa-brain
