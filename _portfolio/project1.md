@@ -1,18 +1,17 @@
 ---
 title: Swarm Algorithm
 subtitle: A simple swarm algorithm simulation
-image: assets/img/projects/01-full.jpg
+image: assets/img/projects/swarm.jpg
 alt: 
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/projects/01-thumbnail.jpg
+  title: Swarm Algorithm
+  subtitle: A simple swarm algorithm simulation
+  thumbnail: assets/img/projects/swarm.jpg
 ---
-DRONE SWARM ALGORITHM
+It is a light-weight [swarm algorithm](https://en.wikipedia.org/wiki/Swarm_intelligence) implementation in C++.
+[Project Page](https://github.com/vaydingul/SwarmAlgorithm) 
 
 {:.list-inline}
-- Date: January 2019
-- Client: Window
 - Category: Programming
 
