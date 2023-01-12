@@ -1,8 +1,8 @@
 ---
 title: Haptics
-subtitle: Electromechanical device control unit
+sub title: Electromechanical device control unit
 image: assets/img/projects/haptic_setup.png
-alt: 
+alt:
 
 caption:
   title: Haptics
