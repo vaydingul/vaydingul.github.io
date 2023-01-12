@@ -1,18 +1,13 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/projects/04-full.jpg
+title: TensorLib
+subtitle: A minimalist tensor library written in C++
+image: assets/img/projects/tensor.png
 alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
-  thumbnail: assets/img/projects/04-thumbnail.jpg
+  title: TensorLib
+  subtitle: A minimalist tensor library written in C++
+  thumbnail: assets/img/projects/tensor.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
-{:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
-
+A minimalist tensor library written in C++ to perform basic tensor operations. It is created to be used in another deep-learning-from-scratch *(work in progress)* project in C++. Library allows you to create tensors of arbitrary dimension and perform basic operations such as addition, subtraction, multiplication, division, and element-wise operations. It also allows you to perform matrix multiplication and transpose operations. 
