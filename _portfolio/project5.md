@@ -1,18 +1,15 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/projects/05-full.jpg
+title: Computational Physics
+subtitle: A general look on the computational physics
+image: assets/img/projects/physics.jpg
 alt: 
 
 caption:
-  title: Southwest
-  subtitle: Website Design
-  thumbnail: assets/img/projects/05-thumbnail.jpg
+  title: Computational Physics
+  subtitle: A general look on the computational physics
+  thumbnail: assets/img/projects/physics.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
-{:.list-inline}
-- Date: October 2019
-- Client: Southwest
-- Category: Website Design
+Below, you can find a list of the computational physics projects that I have worked on. [This](https://github.com/vaydingul/PHYS514-Problem_Sets) repository contains the weekly homeworks that I have done during the computational physics course I've taken in Koc University. You can find the relevant topics in the repository. 
 
+[This](https://github.com/vaydingul/PHYS514_Project) repository contains a project that investigates the *White Dwarf* data and makes analysis related to white dwarf emergence and transitions. 
