@@ -5,7 +5,7 @@ image: assets/img/projects/swarm.jpg
 alt: 
 
 caption:
-  title: [Swarm Algorithm](https://github.com/vaydingul/SwarmAlgorithm)
+  title: <a href="https://github.com/vaydingul/SwarmAlgorithm"> Swarm Algorithm </a>
   subtitle: A simple swarm algorithm simulation
   thumbnail: assets/img/projects/swarm.jpg
 ---
