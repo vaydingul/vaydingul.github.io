@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Redirecting to vaydingul.com</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        background: #000;
+        font-family: Arial, sans-serif;
+      }
+      .loader {
+        color: #fff;
+        font-size: 24px;
+        text-align: center;
+        animation: fadeInOut 2s ease-in-out infinite;
+      }
+      @keyframes fadeInOut {
+        0% {
+          opacity: 0.3;
+        }
+        50% {
+          opacity: 1;
+        }
+        100% {
+          opacity: 0.3;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="loader">Redirecting to vaydingul.com...</div>
+    <script>
+      setTimeout(function () {
+        window.location.href = "https://vaydingul.com";
+      }, 3000);
+    </script>
+  </body>
+</html>
